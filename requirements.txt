@@ -1,0 +1,9 @@
+streamlit
+numpy
+opencv-python
+pillow
+scikit-image
+diffusers
+transformers
+torch
+segment-anything
